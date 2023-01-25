@@ -1,5 +1,14 @@
 # StudyHTML
 
 ## 학습 계획
-HTML 동영상 2일
-개발 진행~
+### 완료
+* basic grammar
+* basic tag
+* form
+* table   
+
+### 미완료
+* font
+* Meta
+* search engine
+* HTML5
