@@ -12,3 +12,6 @@
 * Meta
 * search engine
 * HTML5
+
+### 완료까지 
+2023-1-30 다시 시작
