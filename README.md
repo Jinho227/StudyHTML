@@ -11,12 +11,12 @@ https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68pp
 * basic tag
 * form
 * table   
-
-### 미완료
 * font
 * Meta
 * search engine
 * HTML5
 
+### 미완료
+
 ### 완료까지 
-2023-1-30 다시 시작
+2023-2-07 완료
