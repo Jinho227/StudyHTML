@@ -15,6 +15,3 @@ https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68pp
 * Meta
 * search engine
 * HTML5
-
-### 완료까지 
-2023-2-07 완료
